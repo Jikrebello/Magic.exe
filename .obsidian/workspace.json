@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "ea76717744095381",
+    "type": "split",
+    "children": [
+      {
+        "id": "4af4331c9523a116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1efb17768326ae0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4f0be5351d7e736",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee844557f50e7997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "724613aed3932032",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d17688dbbf86a0e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "88a6c6c9fb25063b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "206b9f315e08633b",
+    "type": "split",
+    "children": [
+      {
+        "id": "82ed43e2105cccf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65bb228283bb9347",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pilot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pilot"
+            }
+          },
+          {
+            "id": "bf0b2b16a4adf81d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pilot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pilot"
+            }
+          },
+          {
+            "id": "22d5572d6f132702",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "972667af8a459a7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pilot.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pilot"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "724613aed3932032",
+  "lastOpenFiles": [
+    "Core Characters/Mira Luminel/Reference/Mira5.png",
+    "Core Characters/Mira Luminel/Reference/Mira4.png",
+    "Core Characters/Mira Luminel/Reference/Mira3.png",
+    "Core Characters/Mira Luminel/Reference/Mira2.png",
+    "Core Characters/Mira Luminel/Reference/Mira1.png",
+    "Core Characters/Mira Luminel/Reference/Mira6.png",
+    "Season 1/Pilot/Act 1.md",
+    "Magic.exe",
+    "Season 1/Pilot/Pilot.pdf",
+    "Core Characters/Darius Highmarch/Darius Highmarch.md",
+    "Core Characters/Mira Luminel/Mira Luminel.md",
+    "Core Characters/Wizard/Reference/Wizard5.png",
+    "Core Characters/Wizard/Reference/Wizard4.png",
+    "Core Characters/Wizard/Reference/Wizard1.png",
+    "Core Characters/Wizard/Reference/Wizard2.png",
+    "Core Characters/Wizard/Wizard.md",
+    "Episode Concepts.md",
+    "Core Characters/Selina Valeheart/Selina Valeheart.md",
+    "Season 1/Pilot/Pilot.md",
+    "Season 1/Pilot/Pilot (Stream of Consciousness).md",
+    "Setting.md",
+    "Main Characters.md",
+    "Core Characters/Darius Highmarch/References",
+    "Core Characters/Darius Highmarch",
+    "Core Characters/Darius",
+    "Core Characters/Selina Valeheart/References",
+    "Core Characters/Selina Valeheart/attachements",
+    "Core Characters/Wizard/Reference",
+    "Core Characters/Selina Valeheart/Reference",
+    "Core Characters/Mira Luminel/Reference",
+    "Core Characters/Cleric/Cleric.md",
+    "Core Characters/Grim Ironshade/Grim Ironshade.md",
+    "Recurring Characters.md",
+    "Mundane Events.md",
+    "Overview.md",
+    "Core Concept.md",
+    "Welcome.md"
+  ]
+}
